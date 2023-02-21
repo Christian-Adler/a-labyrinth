@@ -1,0 +1,2 @@
+# a-labyrinth
+labyrinth generator
